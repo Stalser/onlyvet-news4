@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<radialGradient id="instagramGrad" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#F9ED69"/>
+<stop offset="50%" stop-color="#F08A5D"/>
+<stop offset="100%" stop-color="#B833E1"/>
+</radialGradient>
+<path d="M500,1000c220.9,0,400-179.1,400-400S720.9,200,500,200S100,379.1,100,600S279.1,1000,500,1000z M500,280
+	c88.4,0,160,71.6,160,160S588.4,600,500,600S340,528.4,340,440S411.6,280,500,280z M500,360c-44.2,0-80,35.8-80,80s35.8,80,80,80
+	s80-35.8,80-80S544.2,360,500,360z M760,300c0,33.1-26.9,60-60,60s-60-26.9-60-60s26.9-60,60-60S760,266.9,760,300z" fill="url(#instagramGrad)"/>
+</svg>
